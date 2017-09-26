@@ -1,4 +1,4 @@
-# README 
+# Introduction to Computer Graphics - Procedural Terrain Generation
 
 ## Features beyond the expectations
 #### Part I: 
