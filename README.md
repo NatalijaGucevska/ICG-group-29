@@ -23,9 +23,9 @@ While in bezier courve mode if W/S is pressed the camera increases/decreases vel
 	
 ## Work splitted among the group members: 
 
-Natalija Gucevska: Sky box, Water reflection, Water distorsion, Move terrain instead camera, Bezier curves velocity 
-Sébastien Chevalley: Infinite terrain, Blurred mountains and water with blending and alpha maps, Bezier curves, Perlin noise (with random seed generated CPU side)
-Lucas Pires: Camera movement, First eye experience, Jetpack, Textures
+- Natalija Gucevska: Sky box, Water reflection, Water distorsion, Move terrain instead camera, Bezier curves velocity 
+- Sébastien Chevalley: Infinite terrain, Blurred mountains and water with blending and alpha maps, Bezier curves, Perlin noise (with random seed generated CPU side)
+- Lucas Pires: Camera movement, First eye experience, Jetpack, Textures
 
 We tried to split work as evenly as possible but often we worked together and helped each other to fix our tasks. 
 
